@@ -1,0 +1,36 @@
+{
+    "name": "th_lesson1",
+    "version": "1.0.0",
+    "description": "waito",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon --inspect index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Waito3007/nodejs-waito.git"
+    },
+    "keywords": [
+        "waito",
+        "blog",
+        "nodejs",
+        "js",
+        "node",
+        "sang",
+        "vusang",
+        "sv"
+    ],
+    "author": "waito",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Waito3007/nodejs-waito/issues"
+    },
+    "homepage": "https://github.com/Waito3007/nodejs-waito#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.7"
+    }
+}
